@@ -1,1 +1,1 @@
-# hcd-class
+The goal of this project was to find any realtionship or correaltion between variables concerning vaccination rate, income, and population in Texas counties. Do counties with more people vaccinated compared to their population have a higher median income? Do counties with less people vaccinated compared to their population have a higher poverty rate? These are some of the questions I hoped to answer witht this project.
